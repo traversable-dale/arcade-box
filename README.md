@@ -16,7 +16,9 @@ Here you will find the arcade-box repository. Within this repo are a combination
 6. good mushrooms-01 (pygame) - mario-style platformer using pygame, sprites, character animations
 
 There are 2 parallel goals with this repo:
-1. Become a better programmer, solidify new skills, expand deeper into python
-2. art for art's sake, love, 1 + 1 = 2 = 1 + 1
+1. Combine these projects into a cohesive project (hacker-box menu, mini-game selection, leaderboard, music)
+2. Finish 'good mushrooms' as a standalone title- experimenting with platforms and methods
+4. Become a better programmer, solidify new skills, expand deeper into python
+6. art for art's sake, love, 1 + 1 = 2 = 1 + 1
 
 
